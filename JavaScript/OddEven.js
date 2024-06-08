@@ -7,8 +7,8 @@ function checkOddEven(number) {
 }
 
 
-let num1 = 4;
-let num2 = 7;
+let num1 = 8;
+let num2 = 4;
 
 console.log(`${num1} is ${checkOddEven(num1)}.`);
 console.log(`${num2} is ${checkOddEven(num2)}.`);  
